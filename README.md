@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @dinahmaccodes
-- 👀 I’m interested in Coding, Building, at times designing and Contributing to projects
-- 🌱 I'm focusing on blockchain development and learning Solidity, Cairo, and Rust, while also strengthening my front-end skills with CSS (Tailwind CSS), JavaScript, React and NextJS.
-- 💞️ I’m looking to collaborate on open source projects and anything that piques my interest. I also like building extensions 
+- 👀 I’m interested in Coding, Building, at times designing and Contributing to Projects
+- 🌱 I'm focusing on blockchain development, learning Solidity, Cairo, and Rust, while building websites and extensions with my skills in CSS, Tailwind CSS, JavaScript, React and Next.js.
+- 💞️ I’m looking to collaborate on open source projects while building with startup companies and businesses along the way. 
 - 📫 How to reach me : email: dinahmaccodes@gmail.com | X: [dinahmaccodes](https://x.com/dinahmaccodes) | Discord: [dinahmaccodes](https://discordapp.com/users/dinahmaccodes) | Telegram: [dinahmac](https://t.me/dinahmac)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love anime and love researching on new topics 
+- ⚡ Fun fact: I love anime, love crocheting if I have the time and love researching on new topics as I upskill 
 
 <!---
 dinahmaccodes/dinahmaccodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
